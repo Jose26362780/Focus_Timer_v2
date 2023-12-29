@@ -36,4 +36,4 @@ Por fim, implementamos uma funcionalidade de dark / light mode, onde o usuário 
 
 ## 🚀 Sobre mim
  Estudante de Engenharia de Software na UNOPAR e 
- Desenvolvedor Front End estudando na Rocketseat do Programa Explorer 
+ Desenvolvedor Full Stack estudando na Rocketseat dentro do Programa Explorer 
